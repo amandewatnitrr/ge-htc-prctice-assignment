@@ -58,7 +58,7 @@ class network extends Thread {
     }
 
 }
-public class Server
+public class SocketChannelServer
 {
     public static void main(String[] args)
     {

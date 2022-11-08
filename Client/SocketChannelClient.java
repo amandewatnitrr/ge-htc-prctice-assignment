@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 import java.util.Scanner;
 
-public class Client
+public class SocketChannelClient
 {
     public static void main(String args[]) throws IOException
     {
